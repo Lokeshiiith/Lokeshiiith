@@ -3,7 +3,7 @@
 
 ## My Website
 
-Check out my personal website to learn more about me and my work: [Website Link]([https://www.yourwebsite.com](https://lokeshiiith.github.io/Portfolio-html/))
+Check out my personal website to learn more about me and my work: [Website Link]([https://lokeshiiith.github.io/Portfolio-html/])
 
 ## Software Engineering Projects
 
