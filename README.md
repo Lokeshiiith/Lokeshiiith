@@ -2,8 +2,7 @@
 ### Currently pursuing my MTech from IIIT Hyderabad(2022-24).
 
 ## My Website
-
-Check out my personal website to learn more about me and my work: [Website Link]([https://lokeshiiith.github.io/Portfolio-html/])
+[Website Link](https://lokeshiiith.github.io/Portfolio-html/)
 
 ## Software Engineering Projects
 
