@@ -1,63 +1,72 @@
-- 👋 Hi, I’m @Lokeshiiith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Hi there, I'm [Your Name]!
-
-👋 Welcome to my GitHub profile! I'm passionate about [Your Interests], and I'm constantly learning and working on exciting projects.
+#👋  Hi there, I'm Lokesh Sharma
+### Currently pursuing my MTech from IIIT Hyderabad(2022-24).
 
 ## My Website
 
-Check out my personal website to learn more about me and my work: [Your Website Link](https://www.yourwebsite.com)
+Check out my personal website to learn more about me and my work: [Website Link]([https://www.yourwebsite.com](https://lokeshiiith.github.io/Portfolio-html/))
 
-## What I'm Learning
+## Software Engineering Projects
 
-I'm currently exploring various technologies and tools, including:
+### Distributed IoT Based App Development Platform
 
-- Python for data analysis and machine learning
-- React.js for frontend development
-- Docker and Kubernetes for containerization and orchestration
-- Cloud platforms like AWS and Azure for deployment
-- And much more!
+* **Technologies:** Python 🐍, Kafka 📨, MongoDB 🍃, Node-JS ⚙️, React-JS ⚛️
+  👥 Collaborated on a platform project for deploying, scaling, and monitoring IoT-based applications, utilizing oneM2M for efficient and seamless data collection in IoT environments.
+  ⚙️ Implemented robust monitoring microservice and fault-tolerance mechanisms for uninterrupted operation.
+  📊 Developed a live tracker of subsystems using React, fetching real-time data from MongoDB.
 
-## Projects
+### Peer-to-Peer Multi-Client File Transfer System
 
-### Project 1: [Project Name]
+* **Technologies:** C++ 🖥️, Socket Programming 🌐, Multithreading 🔄, Modular Programming 🧩
+* 📁 Created a robust file-sharing system where users can share and download files within the groups they belong to.
+* 🛠️ Built tracker and client modules with fault tolerance within the tracker and an efficient download solution.
 
-[Project Description and Details]
+### Terminal Based File Explorer
 
-![Project Screenshot](link-to-project-screenshot)
+* **Technologies: C 🖥️, C++ 🖥️, Unix ncurses Library 💻, System calls 📞**
+* 📂 Created a feature-rich Linux terminal-based file explorer with Normal Mode for directory navigation and Command Mode for executing file and directory operations.
+* ⚙️ Implemented stack-based navigation, queue data structures, and LRU cache for efficiency.
 
-### Project 2: [Project Name]
+### Client-Server Architecture with FTP Communication Protocol
 
-[Project Description and Details]
+* 🖥️ Designed and implemented a client-server architecture using FTP for communication and incorporated functions for basic arithmetic operations.
 
-![Project Demo](link-to-project-demo)
+### Vulture-Crow Game
 
-### Project 3: [Project Name]
+* 🎮 Utilized d3.js library with extensive use of graphs.
 
-[Project Description and Details]
+## Machine Learning Projects
 
-[![Project Video](link-to-project-video)](link-to-project-demo)
+### Sentiment Analysis Of Stock Prediction
 
-## Visualization
+* **Methods:📊 Data Processing, 📈 Logistic Regression, 🌳 Random Forest, 🤖 SVM, 🧠 Neural Networks**
+* Implemented an innovative sentiment analysis approach for stock prediction, integrating ML techniques.
+* Demonstrated the effectiveness of the innovative approach, achieved a 10% increase in accuracy.
 
-Here are some visualizations representing my learning journey and interests:
+### Twitter Popularity Prediction with K-Nearest Neighbors
 
-### Python Data Analysis
+* 🐦 **Methods:** K-Nearest Neighbors (KNN) 🎯, Numpy 🐘, Pandas 🐼, NLTK 📝, Scikit-learn 🧠
+* Implemented KNN for tweet popularity prediction, utilizing vectorized tweets and reducing dimensionality for enhanced accuracy through TF-IDF text vectorization and feature set combination.
 
-```python
-import matplotlib.pyplot as plt
+### Decision Tree Classifier for Banknote Authentication
 
-# Example data
-categories = ['Data Analysis', 'Machine Learning', 'Web Development', 'Cloud Computing']
-hours = [50, 30, 20, 15]
+* 💵 **Methods:** Decision Trees, Gini Index, Entropy, Misclassification Error
+* Implemented decision tree classifiers using various impurity measures and experimented with Scikit-learn’s DecisionTreeClassifier, optimizing parameters for accuracy and visualizing decision trees for analysis.
 
-# Plotting a bar chart
-plt.bar(categories, hours)
-plt.xlabel('Categories')
-plt.ylabel('Hours Spent')
-plt.title('My Learning Journey')
-plt.show()
+### Spam SMS Classification using Multinomial Naive Bayes
+
+* 📱 **Methods:** Tokenization 📝, Numpy 🐘, Pandas 🐼, NLTK 📝, Scikit-learn 🧠
+* Implemented Multinomial Naive Bayes classifier from scratch, including data preprocessing, priors calculation, likelihood estimation, and test data classification. Achieved comparable accuracy to sklearn’s MultinomialNB model for spam SMS classification.
+
+### MNIST Classification with Multilayer Perceptrons (MLP) Optimization
+
+* 🧠 **Methods:** PyTorch 🔥, MLP 🧠, Dropout 🚫, Batch Normalization ⚖️, Loss Functions 📉, SGD 🔄, Adam 🏋️‍♂️, RMSprop 🚀
+* Trained an optimized MLP deep NN on the MNIST dataset using numpy. The dataset comprises 784 input features (pixel values in each image) and 10 output classes representing numbers 0–9.
+
+## Research Project
+
+### Climate Change Data Analysis Tool for Himalayan Belt
+
+* **Technologies:** 🐍 Python, 🗺️ Interpolation, 🚀 Streamlit, ☁️ Azure webservices (CI CD integration with GitHub actions), 🌍 GIS
+* Developed and Deployed a Python-based Climate Change Data Analysis Tool for the Himalayan Belt, utilizing Aphrodite and IMD datasets for geospatial timberline point identification.
+* Recognized and won in the Cloudera and AMD Hackathon, achieving a top 3 ranking out of 2000 peers
+* [Link to the Climate Change Data Analysis Tool](https://clouderahackiiith.azurewebsites.net/)
